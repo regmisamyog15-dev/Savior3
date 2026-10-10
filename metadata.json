@@ -1,0 +1,6 @@
+{
+  "name": "Savior",
+  "description": "Minimal assistive floating orb with software volume, screenshot, background play, and screen lock.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

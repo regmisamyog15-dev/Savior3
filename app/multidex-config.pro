@@ -1,0 +1,7 @@
+-keep class com.example.QuickCircleApplication { *; }
+-keep class com.example.MainActivity { *; }
+-keep class com.example.service.QuickCircleAccessibilityService { *; }
+-keep class com.example.service.QuickCircleNotificationListenerService { *; }
+-keep class com.example.service.QuickCircleTileService { *; }
+-keep class com.example.receiver.BackgroundPlayBroadcastReceiver { *; }
+-keep class com.example.** { *; }
